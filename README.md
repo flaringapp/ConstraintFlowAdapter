@@ -2,7 +2,7 @@
 
 **Implementation**
 
-`implementation 'com.github.flaringapp:ConstraintFlowDemo:1.0'`
+`implementation 'com.github.flaringapp:ConstraintFlowAdapter:1.0'`
 
 **Sample app**
 
