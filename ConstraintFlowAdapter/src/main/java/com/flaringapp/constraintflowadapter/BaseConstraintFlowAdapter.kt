@@ -1,4 +1,4 @@
-package com.flaringapp.constraintflowdemo.adapter
+package com.flaringapp.constraintflowadapter
 
 import android.view.LayoutInflater
 import android.view.View
@@ -6,8 +6,6 @@ import androidx.annotation.IdRes
 import androidx.annotation.LayoutRes
 import androidx.constraintlayout.helper.widget.Flow
 import androidx.constraintlayout.widget.ConstraintLayout
-import androidx.core.view.children
-import androidx.core.view.contains
 import java.lang.ref.WeakReference
 
 abstract class BaseConstraintFlowAdapter {

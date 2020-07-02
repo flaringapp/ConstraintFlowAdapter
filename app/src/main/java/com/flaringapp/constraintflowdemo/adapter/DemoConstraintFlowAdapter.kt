@@ -2,6 +2,7 @@ package com.flaringapp.constraintflowdemo.adapter
 
 import android.view.View
 import android.widget.TextView
+import com.flaringapp.constraintflowadapter.BaseConstraintFlowAdapter
 import com.flaringapp.constraintflowdemo.R
 
 class DemoConstraintFlowAdapter(
