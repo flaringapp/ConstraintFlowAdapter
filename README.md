@@ -6,7 +6,7 @@
 
 **Sample app**
 
-![Preview](/preview.png)
+<img src="/preview.png" width="250">
 
 **Sample usage**
 
@@ -29,6 +29,8 @@ class DemoConstraintFlowAdapter(
     }
 }
 ```
+
+`val adapter = DemoConstraintFlowAdapter(items)`
 
 ***Also*** you need to *init adapter* with your *layout reference*
 
