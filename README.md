@@ -4,6 +4,10 @@
 
 `implementation 'com.github.flaringapp:ConstraintFlowDemo:1.0'`
 
+**Sample app**
+
+![Preview](/preview.png)
+
 **Sample usage**
 
 ```
